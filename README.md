@@ -1,4 +1,4 @@
-# discovering requirements
+# Discovering Requirements
 
 This tool aims to assist in the application development process, especially in the research stage of finding similar products, which will help you to identify some requirements for your specific project.
 
